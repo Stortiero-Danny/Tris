@@ -14,9 +14,7 @@ Gioco del **Tris da console per due giocatori**, con inserimento delle mosse tra
 
 ## Prova la demo
 
-**[Avvia il Tris online](INSERISCI_LINK_DEMO_ONLINEGDB)**
-
-> Sostituisci `INSERISCI_LINK_DEMO_ONLINEGDB` con il collegamento pubblico alla tua demo. Nel compilatore online, premi **Run** e usa la console interattiva per inserire le coordinate.
+**[Avvia il Tris online](https://onlinegdb.com/0bEOXw_kw)**
 
 ## Esecuzione in locale
 
